@@ -38,28 +38,31 @@
 
 ---
 
-Delay vs Distance between Origin and Destination
-
-
-<div id="vis"></div>
-
----
-
-Average Delay between Different Airports
-
-<div id="vis1"></div>
-
----
-
 On which day in a month would flight delay be the worst?
 
 <div id="vis2"></div>
+
 
 ---
 
 Delay based on origin and distance selected by date
 
 <div id="vis3"></div>
+
+
+---
+
+Delay vs Distance between Origin and Destination
+
+
+<div id="vis"></div>
+
+
+---
+
+Average Delay between Different Airports
+
+<div id="vis1"></div>
 
 ---
 
